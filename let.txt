@@ -1,0 +1,11 @@
+- What is the difference between ***var*** and ***let***?
+The difference between Var & Let is that Var you can redeclare and reasign variables while with let you can reasign but not redeclare variables.
+
+- What is the difference between **var** and ***const***?
+While Var can reasign and redeclare variables, const on the other hand prevents a variable from ever being redeclared and reasigned.
+
+- What is the difference between **let** and **const**?
+The difference between the two is that with let you can reasign variables while with const you can't.
+
+- What is holsting?
+Holsting is the way of explaining how javascript compiler works.
